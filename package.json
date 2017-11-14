@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/sandbox-training/sandbox-updateItem.git"
+    "url": "git+https://github.com/sandbox-training/sandbox-updateItem.git"
   },
   "keywords": [],
   "author": "Thomas Sloboda <thomas@sloboda.fr>",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/sandbox-training/sandbox-updateItem/issues"
+    "url": "https://github.com/sandbox-training/sandbox-updateItem/issues"
   },
-  "homepage": "https://gitlab.com/sandbox-training/sandbox-updateItem#readme.md",
+  "homepage": "https://github.com/sandbox-training/sandbox-updateItem#readme.md",
   "dependencies": {
     "dotenv": "^4.0.0",
     "seneca": "^3.4.3"
