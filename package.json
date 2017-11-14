@@ -1,0 +1,26 @@
+{
+  "name": "sandbox-updateItem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "start:dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/sandbox-training/sandbox-updateItem.git"
+  },
+  "keywords": [],
+  "author": "Thomas Sloboda <thomas@sloboda.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/sandbox-training/sandbox-updateItem/issues"
+  },
+  "homepage": "https://gitlab.com/sandbox-training/sandbox-updateItem#readme.md",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "seneca": "^3.4.3"
+  }
+}
